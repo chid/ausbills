@@ -4,4 +4,5 @@ These are example pieces of code we've written that you can use to see how `ausb
 
 ### Note
 
-If you have trouble running the examples, move them to the parent directory (no package install), or install `ausbills` with `pip` or `poetry`.
+If you have trouble running the examples, install `ausbills` with `pip`, or run
+them from the repository root so the local package is importable.

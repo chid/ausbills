@@ -1,72 +1,63 @@
 # ausbills
 
-🇦🇺 This is a package is for obtaining parliament bills for Australian parliaments.
+Get current bills from Australian parliament and legislation sites.
 
-## Install via pip
+## Install
 
-```
+```sh
 pip install ausbills
 ```
 
----
+Some government sites use bot protection. Browser support is optional:
+
+```sh
+pip install "ausbills[browser]"
+playwright install chromium
+```
 
 ## Usage
 
-#### _All parliaments' extractors must use the same output template, which can be found [here](ausbills/models.py)._
-
-Most parliaments host their bills online in 2 forms:
-
-1. A table with a small amount of data about each bill
-
-   ![ACT bill list](.github/img/ACT_bill_list.PNG)
-
-2. Individual pages with all the info for a given bill.
-
-   ![ACT bill](.github/img/ACT_bill.PNG)
-
-`ausbills` gives you access to all of this information.
-
-To get all the current bills from a parliament, follow this template. The ACT parliament is used here for example purposes, all parliaments follow the same rules:
+The public API is top-level and jurisdiction based:
 
 ```py
-# First, we'll import the functions we need:
-from ausbills.parliament.act import get_bills_metadata, get_bill
+from ausbills import Jurisdiction, get_bill, get_bills, list_jurisdictions
+
+print(list_jurisdictions())
+print(get_bills(Jurisdiction.ACT))
 ```
 
-`get_bills_metadata` is the function which returns the list of bills with whatever metadata is present on the list web page.
+Use `include_details=True` to visit each bill detail page and collect document
+links, sponsor, portfolio, and summary fields where available:
 
 ```py
-# Let's print out the list of current bills in the ACT:
-print(get_bills_metadata())
+for bill in get_bills("WA", include_details=True):
+    print(bill.as_dict())
 ```
 
-This is nice, but we can see from the previous screenshots that there is more data that can be obtained, which can be done by using the `get_bill` function's `dict` or `JSON` return functions:
+Fetch a single bill by id:
 
 ```py
-# Get the full metadata from a random ACT bill:
-import random
-
-random_bill = random.choice(get_bills_metadata())
-
-print(get_bill(random_bill).asDict())
-
+bill = get_bill("FEDERAL", "r7000")
+print(bill.as_json())
 ```
 
-We could construct a `JSON` structure for all the bills in the list with all their metadata like ths:
+By default `backend="auto"` tries requests first, detects WAF/challenge pages,
+and falls back to Playwright when the browser extra is installed.
 
-```py
-import json
+## Tests
 
-all_bills = get_bills_metadata()
-bill_meta_list = [get_bill(_bill).asDict() for _bill in all_bills]
+Default tests are fixture-only and do not use the network:
 
-print(json.dumps(bill_meta_list, indent=2))
+```sh
+pytest
 ```
 
-See [this example](examples/download_all_wa_bills.py) for an implementation of this demo for the WA parliament.
+Opt-in live smoke tests call official source sites:
 
----
+```sh
+AUSBILLS_LIVE=1 pytest -m live
+```
 
 ## Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md)
+Read [CONTRIBUTING.md](CONTRIBUTING.md).
