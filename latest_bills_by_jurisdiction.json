@@ -1,0 +1,726 @@
+{
+  "generated_at": "2026-06-04T12:38:59.879622+00:00",
+  "backend": "auto",
+  "note": "Up to five current bills per jurisdiction, in source order. Empty lists include an error entry explaining why the source could not be saved.",
+  "jurisdictions": {
+    "ACT": [],
+    "QLD": [
+      {
+        "id": "bill-2024-042",
+        "jurisdiction": "QLD",
+        "title": "Brisbane Olympic and Paralympic Games Arrangements and Other Legislation Amendment Bill 2024",
+        "source_url": "https://www.legislation.qld.gov.au/view/html/bill.first/bill-2024-042",
+        "status": null,
+        "house": "Assembly",
+        "introduced_date": "2024-11-28T00:00:00",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "bill-2024-047",
+        "jurisdiction": "QLD",
+        "title": "Queensland Productivity Commission Bill 2024",
+        "source_url": "https://www.legislation.qld.gov.au/view/html/bill.first/bill-2024-047",
+        "status": null,
+        "house": "Assembly",
+        "introduced_date": "2024-11-28T00:00:00",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "bill-2024-043",
+        "jurisdiction": "QLD",
+        "title": "Making Queensland Safer Bill 2024",
+        "source_url": "https://www.legislation.qld.gov.au/view/html/bill.first/bill-2024-043",
+        "status": null,
+        "house": "Assembly",
+        "introduced_date": "2024-11-28T00:00:00",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "bill-2024-046",
+        "jurisdiction": "QLD",
+        "title": "Appropriation (Parliament) (Supplementary 2023\u20132024) Bill 2024",
+        "source_url": "https://www.legislation.qld.gov.au/view/html/bill.first/bill-2024-046",
+        "status": null,
+        "house": "Assembly",
+        "introduced_date": "2024-12-10T00:00:00",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "bill-2024-045",
+        "jurisdiction": "QLD",
+        "title": "Appropriation (Supplementary 2023\u20132024) Bill 2024",
+        "source_url": "https://www.legislation.qld.gov.au/view/html/bill.first/bill-2024-045",
+        "status": null,
+        "house": "Assembly",
+        "introduced_date": "2024-12-10T00:00:00",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      }
+    ],
+    "NT": [
+      {
+        "id": "68",
+        "jurisdiction": "NT",
+        "title": "Consumer Affairs and Essential Goods and Services Legislation Amendment Bill 2026",
+        "source_url": "https://legislation.nt.gov.au/en/LegislationPortal/Bills/~/link.aspx?_id=0152355BD8A642EF9D8D7095D77F019A&amp;_z=z",
+        "status": "introduced",
+        "house": "Assembly",
+        "introduced_date": "13/05/2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "67",
+        "jurisdiction": "NT",
+        "title": "Care and Protection of Children Legislation Amendment (Every Child Matters) Bill 2026",
+        "source_url": "https://legislation.nt.gov.au/en/LegislationPortal/Bills/~/link.aspx?_id=920E67AA4C0C40DF9B16EDD905E3C125&amp;_z=z",
+        "status": "introduced",
+        "house": "Assembly",
+        "introduced_date": "13/05/2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "66",
+        "jurisdiction": "NT",
+        "title": "Youth Justice and Criminal Code Amendment Bill 2026",
+        "source_url": "https://legislation.nt.gov.au/en/LegislationPortal/Bills/~/link.aspx?_id=25EC70AECBD945ECAAB39DB48D8EA1F3&amp;_z=z",
+        "status": "introduced",
+        "house": "Assembly",
+        "introduced_date": "13/05/2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "65",
+        "jurisdiction": "NT",
+        "title": "Attorney-General Legislation Amendment (Boards, Committees and Statutory Offices) Bill 2026",
+        "source_url": "https://legislation.nt.gov.au/en/LegislationPortal/Bills/~/link.aspx?_id=EF9DF14B3DE243A5B7BA168ED6BD255E&amp;_z=z",
+        "status": "introduced",
+        "house": "Assembly",
+        "introduced_date": "13/05/2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "64",
+        "jurisdiction": "NT",
+        "title": "Treasury Legislation Amendment Bill 2026",
+        "source_url": "https://legislation.nt.gov.au/en/LegislationPortal/Bills/~/link.aspx?_id=CB90F46288CB4E56B0579839C1E8B726&amp;_z=z",
+        "status": "introduced",
+        "house": "Assembly",
+        "introduced_date": "05/05/2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "first reading",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      }
+    ],
+    "WA": [
+      {
+        "id": "E77E17DF59A74F1648258C7B000FAB02",
+        "jurisdiction": "WA",
+        "title": "Education and Care Services National Law Application Bill 2025",
+        "source_url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=E77E17DF59A74F1648258C7B000FAB02",
+        "status": "Assented to - 31 Mar 2026",
+        "house": null,
+        "introduced_date": "30 Apr 2025",
+        "assent_date": "31 Mar 2026",
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "assented",
+          "passed_lower": true,
+          "passed_upper": true,
+          "assented": true
+        },
+        "documents": []
+      },
+      {
+        "id": "87C43A57E2A70C3248258D080081B074",
+        "jurisdiction": "WA",
+        "title": "Animal Welfare Amendment (Chief Animal Protection Officer) Bill 2025",
+        "source_url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=87C43A57E2A70C3248258D080081B074",
+        "status": "Legislative Council Second Reading - 18 Sep 2025, Private Member's Bill introduced by Dorn, Hon Amanda",
+        "house": null,
+        "introduced_date": "18 Sep 2025",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "second reading",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "D158EDE063FD6F7A48258CAD0009C194",
+        "jurisdiction": "WA",
+        "title": "Appropriation (Capital 2025\u201326) Bill 2025",
+        "source_url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D158EDE063FD6F7A48258CAD0009C194",
+        "status": "Assented to - 22 Aug 2025",
+        "house": null,
+        "introduced_date": "19 Jun 2025",
+        "assent_date": "22 Aug 2025",
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "assented",
+          "passed_lower": true,
+          "passed_upper": true,
+          "assented": true
+        },
+        "documents": []
+      },
+      {
+        "id": "C6A9A41FBD41F43248258DEE002BAAC5",
+        "jurisdiction": "WA",
+        "title": "Appropriation (Capital 2026\u201327) Bill 2026",
+        "source_url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=C6A9A41FBD41F43248258DEE002BAAC5",
+        "status": "Legislative Assembly Second Reading Agreed - 14 May 2026",
+        "house": null,
+        "introduced_date": "7 May 2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "second reading",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "DCF4DF5DC0E0830D48258CAD000AAD61",
+        "jurisdiction": "WA",
+        "title": "Appropriation (Recurrent 2025\u201326) Bill 2025",
+        "source_url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DCF4DF5DC0E0830D48258CAD000AAD61",
+        "status": "Assented to - 22 Aug 2025",
+        "house": null,
+        "introduced_date": "19 Jun 2025",
+        "assent_date": "22 Aug 2025",
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "assented",
+          "passed_lower": true,
+          "passed_upper": true,
+          "assented": true
+        },
+        "documents": []
+      }
+    ],
+    "TAS": [
+      {
+        "id": "bills",
+        "jurisdiction": "TAS",
+        "title": "Bills",
+        "source_url": "https://www.parliament.tas.gov.au/bills",
+        "status": "current",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "current",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "bills",
+        "jurisdiction": "TAS",
+        "title": "Bills",
+        "source_url": "https://www.parliament.tas.gov.au/bills",
+        "status": "current",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "current",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "forests",
+        "jurisdiction": "TAS",
+        "title": "Legislative Council Select Committee on the Tasmanian Forests Agreement Bill 2012",
+        "source_url": "https://www.parliament.tas.gov.au/committees/historicalcommittees/forests",
+        "status": "current",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "current",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "appropriation-bill-no.-1-2026-18-of-2026",
+        "jurisdiction": "TAS",
+        "title": "Appropriation Bill (No. 1) 2026 (18 of 2026)",
+        "source_url": "https://www.parliament.tas.gov.au/bills/bills2026/appropriation-bill-no.-1-2026-18-of-2026",
+        "status": "current",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "current",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "appropriation-bill-no.-2-2026-19-of-2026",
+        "jurisdiction": "TAS",
+        "title": "Appropriation Bill (No. 2) 2026 (19 of 2026)",
+        "source_url": "https://www.parliament.tas.gov.au/bills/bills2026/appropriation-bill-no.-2-2026-19-of-2026",
+        "status": "current",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "current",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      }
+    ],
+    "VIC": [
+      {
+        "id": "bills",
+        "jurisdiction": "VIC",
+        "title": "Bills",
+        "source_url": "https://www.legislation.vic.gov.au/bills",
+        "status": "in parliament",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "in parliament",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "bills",
+        "jurisdiction": "VIC",
+        "title": "Bills",
+        "source_url": "https://www.legislation.vic.gov.au/bills",
+        "status": "in parliament",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "in parliament",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "in-parliament",
+        "jurisdiction": "VIC",
+        "title": "Bills in Parliament",
+        "source_url": "https://www.legislation.vic.gov.au/bills/in-parliament",
+        "status": "in parliament",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "in parliament",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      },
+      {
+        "id": "all-bills",
+        "jurisdiction": "VIC",
+        "title": "All Bills",
+        "source_url": "https://www.legislation.vic.gov.au/bills/all-bills",
+        "status": "in parliament",
+        "house": null,
+        "introduced_date": null,
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": null,
+        "progress": {
+          "current_stage": "in parliament",
+          "passed_lower": false,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": []
+      }
+    ],
+    "SA": [],
+    "NSW": [],
+    "FEDERAL": [
+      {
+        "id": "s1482",
+        "jurisdiction": "FEDERAL",
+        "title": "A New Tax System (Family Assistance) Amendment (No Jab No Pay Repeal) Bill 2025",
+        "source_url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=s1482",
+        "status": "Before Senate",
+        "house": "Senate",
+        "introduced_date": "26 Nov 2025",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": null,
+        "summary": "Amends the A New Tax System (Family Assistance) Act 1999 to enable a child to meet their immunisation requirements for the purposes of payment of the child care subsidy on the basis of a conscientious objection or if the child is 7 years of age or older.",
+        "progress": {
+          "current_stage": "Before Senate",
+          "passed_lower": false,
+          "passed_upper": true,
+          "assented": false
+        },
+        "documents": [
+          {
+            "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=s1482",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbills%2Fs1482_first-senate%2F0000%22;rec=0",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fems%2Fs1482_ems_32533778-532a-4e8b-b508-6ba3c55d5ea9%22",
+            "kind": "explanatory memorandum",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          }
+        ]
+      },
+      {
+        "id": "r7448",
+        "jurisdiction": "FEDERAL",
+        "title": "Anti-Money Laundering and Counter-Terrorism Financing Amendment Bill 2026",
+        "source_url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7448",
+        "status": "Before House of Representatives",
+        "house": "House of Representatives",
+        "introduced_date": "12 Mar 2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": "Home Affairs",
+        "summary": "Amends the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 to: enable the Chief Executive Officer of the Australian Transaction Reports and Analysis Centre to restrict or prohibit reporting entities from using high-risk mechanisms to provide designated services; amend the meaning of financing of terrorism to reference new offences for financing a state sponsor of terrorism; and make technical amendments.",
+        "progress": {
+          "current_stage": "Before House of Representatives",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": [
+          {
+            "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7448",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbills%2Fr7448_first-reps%2F0000%22;rec=0",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fems%2Fr7448_ems_d3be5266-10e6-40d3-9c02-6bc9d8421a02%22",
+            "kind": "explanatory memorandum",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          }
+        ]
+      },
+      {
+        "id": "r7482",
+        "jurisdiction": "FEDERAL",
+        "title": "Appropriation (Parliamentary Departments) Bill (No. 1) 2026-2027",
+        "source_url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7482",
+        "status": "Before House of Representatives",
+        "house": "House of Representatives",
+        "introduced_date": "12 May 2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": "Finance",
+        "summary": "Appropriates money out of the Consolidated Revenue Fund for expenditure in relation to the parliamentary departments.",
+        "progress": {
+          "current_stage": "Before House of Representatives",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": [
+          {
+            "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7482",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbills%2Fr7482_first-reps%2F0000%22;rec=0",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fems%2Fr7482_ems_27aeec60-1745-43d5-8767-49f7c83fcc21%22",
+            "kind": "explanatory memorandum",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          }
+        ]
+      },
+      {
+        "id": "r7483",
+        "jurisdiction": "FEDERAL",
+        "title": "Appropriation Bill (No. 1) 2026-2027",
+        "source_url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7483",
+        "status": "Before House of Representatives",
+        "house": "House of Representatives",
+        "introduced_date": "12 May 2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": "Finance",
+        "summary": "Appropriates money out of the Consolidated Revenue Fund for the ordinary annual services of the government.",
+        "progress": {
+          "current_stage": "Before House of Representatives",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": [
+          {
+            "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7483",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbills%2Fr7483_first-reps%2F0000%22;rec=0",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fems%2Fr7483_ems_dbcf3bf8-dd88-4d88-b296-5bf50d0ec185%22",
+            "kind": "explanatory memorandum",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          }
+        ]
+      },
+      {
+        "id": "r7484",
+        "jurisdiction": "FEDERAL",
+        "title": "Appropriation Bill (No. 2) 2026-2027",
+        "source_url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7484",
+        "status": "Before House of Representatives",
+        "house": "House of Representatives",
+        "introduced_date": "12 May 2026",
+        "assent_date": null,
+        "sponsor": null,
+        "portfolio": "Finance",
+        "summary": "Appropriates money out of the Consolidated Revenue Fund for certain expenditure.",
+        "progress": {
+          "current_stage": "Before House of Representatives",
+          "passed_lower": true,
+          "passed_upper": false,
+          "assented": false
+        },
+        "documents": [
+          {
+            "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7484",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fbills%2Fr7484_first-reps%2F0000%22;rec=0",
+            "kind": "bill",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          },
+          {
+            "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22legislation%2Fems%2Fr7484_ems_ea931617-de0c-497c-8614-c5e17c86512d%22",
+            "kind": "explanatory memorandum",
+            "house": null,
+            "date": null,
+            "mime_type": null
+          }
+        ]
+      }
+    ]
+  },
+  "errors": {
+    "ACT": {
+      "type": "ParseError",
+      "message": "ACT bill table not found"
+    },
+    "SA": {
+      "type": "ParseError",
+      "message": "TAS bill links not found"
+    },
+    "NSW": {
+      "type": "ParseError",
+      "message": "NSW bill links not found"
+    }
+  }
+}
